@@ -1,0 +1,418 @@
+=== PROGRAMMING LANGUAGES ===
+Apache Groovy
+AssemblyScript
+C
+C#
+C++
+Clojure
+Crystal
+Dart
+Elixir
+Elm
+Erlang
+Fortran
+Go
+Haskell
+Java
+JavaScript
+Julia
+Kotlin
+Lua
+Nim
+Nix
+Objective-C
+OCaml
+Perl
+PHP
+PowerShell
+Python
+R
+ReScript
+Ruby
+Rust
+Scala
+Solidity
+Swift
+TypeScript
+Zig
+
+=== MARKUP & STYLING ===
+CSS3
+HTML5
+LaTeX
+Markdown
+Org Mode
+SASS
+Stylus
+Less
+TailwindCSS
+Bootstrap
+Bulma
+Chakra
+DaisyUI
+MUI
+Ant-Design
+Semantic UI React
+Mantine
+Vuetify
+Windicss
+UnoCSS
+Styled Components
+
+=== CLOUD PLATFORMS & HOSTING ===
+AWS
+Azure
+Google Cloud
+Alibaba Cloud
+Oracle
+Firebase
+Heroku
+Vercel
+Netlify
+Render
+DigitalOcean
+Linode
+Vultr
+Cloudflare
+Scaleway
+OpenStack
+OVH
+Glitch
+Codeberg
+
+=== FRAMEWORKS & LIBRARIES ===
+.Net
+AdonisJS
+Alpine.js
+Angular
+Angular.js
+Anaconda
+Ant-Design
+Apollo-GraphQL
+Astro
+Aurelia
+Blazor
+Bootstrap
+Buefy
+Bulma
+Bun
+Chart.js
+Code-Igniter
+Context-API
+Django
+DjangoREST
+Deno JS
+Directus
+Drupal
+EJS
+Electron.js
+Ember
+Express.js
+Expo
+FastAPI
+Fastify
+Filament
+Flask
+Flutter
+Framework7
+Gatsby
+Grav
+Green Sock
+Gutenberg
+Handlebars
+Ionic
+Jasmine
+JavaFX
+Jinja
+Joomla
+jQuery
+Laravel
+Livewire
+Metero JS
+NestJS
+Next JS
+NodeJS
+Nuxt JS
+Phoenix Framework
+Pug
+Quasar
+Quarkus
+Qt
+Rails
+React
+React Native
+React Query
+React Router
+React Hook Form
+Redux
+Remix
+RollupJS
+RxDB
+RxJS
+SolidJS
+Socket.io
+Spring
+Strapi
+Streamlit
+Svelte
+SvelteKit
+Symfony
+Tauri
+Thymeleaf
+Three js
+Type-graphql
+Vue.js
+Vite
+Web3.js
+Webpack
+WordPress
+Xamarin
+
+=== DATABASES ===
+AmazonDynamoDB
+ApacheCassandra
+Appwrite
+Arango DB
+CockroachLabs
+Couchbase
+CrateDB
+Dgraph
+Firebase
+Hibernate
+InfluxDB
+MariaDB
+MicrosoftSQLServer
+MongoDB
+MusicBrainz
+MySQL
+Neo4J
+PlanetScale
+PocketBase
+Postgres
+Prisma
+Realm
+Redis
+Sequelize
+Single Store
+SQLite
+Supabase
+SurrealDB
+Teradata
+
+=== DEVOPS & CI/CD ===
+Ansible
+Apache Subversion
+Bitbucket
+ChipperCI
+CircleCI
+CloudBees
+Docker
+Fastlane
+Forgejo
+Git
+Gitea
+Gitee
+GitHub
+GitHub Actions
+GitLab
+GitLab CI
+Gitpod
+Jenkins
+Kubernetes
+Mercurial
+Octopus Deploy
+Rancher
+TeamCity
+Terraform
+TravisCI
+Vagrant
+
+=== TESTING ===
+Cypress
+Jasmine
+Jest
+Mocha
+Playwright
+Puppeteer
+Selenium
+Sentry
+Testing-Library
+Vitest
+
+=== DATA SCIENCE & ML ===
+Keras
+Matplotlib
+mlflow
+NumPy
+Pandas
+Plotly
+PyTorch
+scikit-learn
+Scipy
+TensorFlow
+
+=== DESIGN & CREATIVE ===
+Adobe
+Adobe Acrobat Reader
+Adobe After Effects
+Adobe Audition
+Adobe Creative Cloud
+Adobe Dreamweaver
+Adobe Fonts
+Adobe Illustrator
+Adobe InDesign
+Adobe Lightroom
+Adobe Lightroom Classic
+Adobe Photoshop
+Adobe Premiere Pro
+Adobe XD
+Affinity Designer
+Affinity Photo
+Aseprite
+Blender
+Canva
+Clip Studio Paint
+Dribbble
+Figma
+Framer
+Gimp
+Inkscape
+Invision
+Krita
+Proto.io
+Rhinoceros
+Sketch
+Sketch Up
+Storybook
+
+=== GAME DEVELOPMENT & GAMING ===
+Analogue
+Battle.net
+Bevy
+EA
+Epic Games
+Godot Engine
+Humble Bundle
+Itch.io
+PlayStation Network
+Riot Games
+Sidequest
+Square Enix
+Steam
+Ubisoft
+Unity
+Unreal Engine
+Xbox
+
+=== BUILD TOOLS & PACKAGE MANAGERS ===
+Apache Ant
+Apache Maven
+Babel
+CMake
+Esbuild
+ESLint
+Gradle
+Gulp
+NPM
+Nx
+Nodemon
+PNPM
+Prettier
+SonarLint
+SonarQube
+Swagger
+Yarn
+
+=== WEB SERVERS & APPLICATION SERVERS ===
+Apache
+Apache Airflow
+Apache Flink
+Apache Tomcat
+Gunicorn
+Nginx
+
+=== BIG DATA & STREAMING ===
+Apache Hadoop
+Apache Hive
+Apache Kafka
+Apache Spark
+Elasticsearch
+ElasticSearch
+MaxCompute
+Snowflake
+
+=== MONITORING & OBSERVABILITY ===
+Datadog
+Grafana
+OpenTelemetry
+Prometheus
+Splunk
+
+=== API & DEVELOPMENT TOOLS ===
+GraphQL
+Insomnia
+JWT
+OpenAPI Specification
+Postman
+Quill
+Swagger
+Twilio
+
+=== GRAPHICS & RENDERING ===
+nVIDIA
+AMD
+OpenGL
+OpenCV
+WebGL
+RayLib
+P5js
+
+=== IOT & HARDWARE ===
+Arduino
+Home Assistant
+Homebridge
+Mosquitto
+Node-RED
+PlatformIO
+Raspberry Pi
+Wireguard
+Zigbee
+
+=== COLLABORATION & PROJECT MANAGEMENT ===
+Confluence
+Jira
+Meta
+Notion
+Prezi
+Trello
+
+=== SECURITY & NETWORKING ===
+AquaSec
+Bitwarden
+Cisco
+TOR
+Ubiquiti
+
+=== MISCELLANEOUS TOOLS ===
+Airbnb
+Alfred
+CodeCov
+Crowdin
+FFmpeg
+OpenSea
+Packer
+Perforce Helix
+Pi-Hole
+Plex
+Jellyfin
+Portfolio
+Power Bi
+RabbitMQ
+ROS
+Radix UI
+Tampermonkey
+Uber
+XFCE
+Windows Terminal
+Bash Script
+Badge Name
